@@ -21,3 +21,7 @@ This phase pros and cons of the project will be listed
 ## Deployment
 
 ## How to contribute
+
+## CopyRight
+
+This phase to display CopyRight notice
