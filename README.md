@@ -8,6 +8,8 @@ Sample website with plenty of files for demos
 
 # Started web projetc
 
+This is a started web project and development static and dynamic web pages
+
 ## Introduction
 
 ## Purpose
