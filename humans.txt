@@ -3,7 +3,7 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    Deepak Raju		Developer	deepak.raj9988
 
 # THANKS
 
