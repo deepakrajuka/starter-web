@@ -2,6 +2,7 @@
 
 This repository is for showing how Git and GitHub work
 This is very helpful in understanding Git
+practising Git will make you more familiar with Git
 
 ## Purpose
 
