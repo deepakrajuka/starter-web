@@ -1,4 +1,5 @@
 # humanstxt.org/
+#adding humans text to refer stash merging
 # The humans responsible & technology colophon
 
 # TEAM
