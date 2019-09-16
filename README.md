@@ -26,7 +26,7 @@ This phase pros and cons of the project will be listed
 
 ## CopyRight
 
-This phase to display CopyRight notice
+This phase to display CopyRight notice copy right reserved
 
 ##Simple text
 
