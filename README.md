@@ -7,6 +7,7 @@ practising Git will make you more familiar with Git
 ## Purpose
 
 Sample website with plenty of files for demos
+purpose is very simple
 
 # Started web projetc
 
